@@ -1,0 +1,9 @@
+{
+  "name": "tashihyar-homework-checker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "تصحیح‌یار — smart homework checker for Persian elementary classrooms",
+  "dependencies": {
+    "@netlify/functions": "latest"
+  }
+}
